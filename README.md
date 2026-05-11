@@ -5,7 +5,7 @@ Desenvolvemos uma plataforma que permite monitorar em tempo real as obras de cis
 A ideia é simples: aproximar cidadãos, profissionais da área e gestores públicos em torno de uma causa comum, usando tecnologia como ferramenta de fiscalização e cuidado.
 
 Estrutura Organizacional do projeto
-[Clique aqui para visualizar](https://canva.link/h9sgdohseyykbbh)
+[Clique aqui para visualizar](https://canva.link/v8ruof6770vf1rd)
 
 Business Model Canva do projeto
 [Clique aqui para visualizar](https://canva.link/h9sgdohseyykbbh)
