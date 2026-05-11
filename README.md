@@ -9,3 +9,4 @@ Estrutura Organizacional do projeto
 
 Business Model Canva do projeto
 [Clique aqui para visualizar](https://canva.link/h9sgdohseyykbbh)
+
